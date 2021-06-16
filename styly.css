@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+ ul {
+    background-color: rgb(199, 198, 198);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
+    
+
+}
+
+a{
+    color: black;
+    text-decoration: unset;
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1563520240533-66480a3916fe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8M2QlMjBwcmludGluZ3xlbnwwfHwwfHw%3D&amp;ixlib=rb-1.2.1&amp;w=1000&amp;q=80);
+    background-position: center;
+    
+    
+}

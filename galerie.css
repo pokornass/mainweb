@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+ ul {
+    background-color: rgb(199, 198, 198);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
+    text-align: justify;
+
+}
+
+a{
+    color: black;
+    text-decoration: unset;
+}
+
+
+
+
+.obrazky{
+    display: flex;
+    flex-direction: column;
+    
+}
+.prvni{
+    border-style: solid;
+    padding: 2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 220%;
+    text-align: center;
+   
+    
+}
+.druhy{
+    border-style: solid;
+    padding: 2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 220%;
+    text-align: center;
+    
+}
+
+.treti{
+    border-style: solid;
+    padding: 2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 220%;
+    text-align: center;
+    
+}
+
+
+
+
+img{
+
+width: 50%;
+max-width: 4000px;
+height: auto;
+margin: auto;
+
+}
+
+
+
+
+
+
+.kontejner{
+    display: flex;
+}
+
+
+
+

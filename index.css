@@ -1,0 +1,27 @@
+.omne{
+background-color: white;
+display: flex;
+border-style: solid;
+color: black;
+justify-content: center;
+flex-direction: column;
+}
+
+.pomne{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+}
+
+img{
+display: flex;
+    margin: auto;
+}
+
+.omne{
+    border-style: solid;
+    padding: 2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 220%;
+    text-align: center;
+}
